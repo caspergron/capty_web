@@ -1,0 +1,218 @@
+{
+  "navigation": {
+    "features": "Ominaisuudet",
+    "howItWorks": "Miten se toimii",
+    "testimonials": "Arvostelut",
+    "clubs": "Seurat",
+    "faq": "UKK",
+    "admin": {
+      "title": "Hallinta",
+      "clubs": "Seurojen hallinta",
+      "discSales": "Kiekkomyynnin hallinta"
+    },
+    "login": "Kirjaudu",
+    "logout": "Kirjaudu ulos",
+    "openMenu": "Avaa valikko",
+    "closeMenu": "Sulje valikko"
+  },
+  "hero": {
+    "title": "Frisbeegolfin markkinapaikka-sovellus",
+    "subtitle": "Osta ja myy kiekkojasi - Helposti",
+    "appStore": "Lataa App Storesta",
+    "googlePlay": "Hanki Google Playsta"
+  },
+  "beta": {
+    "attention": "Huomio: Olemme Beta-vaiheessa!",
+    "sampleData": "Kaikki verkkosivuston tiedot ovat tällä hetkellä esimerkkitietoja.",
+    "standBy": "Ole valmiina ensimmäiseen julkaisuumme",
+    "releaseDate": "toukokuussa 2025",
+    "notifyButton": "Saa ilmoitus julkaisusta"
+  },
+  "notifications": {
+    "modal": {
+      "title": "Saa ilmoitus julkaisusta",
+      "thankYou": "Kiitos!",
+      "submittedMessage": "Ilmoituspyyntösi on lähetetty. Ilmoitamme sinulle, kun Capty julkaistaan!"
+    },
+    "form": {
+      "name": "Nimi",
+      "email": "Sähköpostiosoite",
+      "country": "Maa",
+      "send": "Lähetä",
+      "sending": "Lähetetään...",
+      "cancel": "Peruuta"
+    },
+    "errors": {
+      "submitError": "Pyynnön lähettämisessä tapahtui virhe. Yritä uudelleen."
+    }
+  },
+  "value": {
+    "title": "Enemmän kuin sovellus – Mullistava kokemus frisbeegolfaajille",
+    "description1": "Kuvittele meneväsi turnaukseen ja voivasi selata muiden pelaajien kiekkoja heti!",
+    "description2": "Kuvittele matkustavasi maailmalla ja sinulla on työkalu, jolla voit yhdistyä paikallisiin frisbeegolfaajiin, jotka voivat näyttää sinulle parhaat radat.",
+    "description3": "Nämä ovat vain joitain ominaisuuksia, joita Capty tarjoaa sinulle."
+  },
+  "usps": {
+    "discover": {
+      "title": "📍 Löydä piilotettuja aarteita seurastasi",
+      "description": "Selaa kiekkoja, joita seurasi jäsenet eivät enää käytä! Löydä harvinaisia tai peliä muuttavia kiekkoja, jotka keräsivät pölyä."
+    },
+    "track": {
+      "title": "🏆 Seuraa ja vertaa edistymistä",
+      "description": "Katso kuka tekee suurimmat parannukset seurassasi! Vertaa PDGA:n vuosittaista kehitystä ja haasta toisenne nousemaan uusiin korkeuksiin."
+    },
+    "sell": {
+      "title": "💰 Muuta vanhat kiekkosi rahaksi",
+      "description": "Listaa käyttämättömät kiekkosi markkinapaikalla ja myy suoraan paikallisille pelaajille. Ei enää käyttämättömiä varusteita keräämässä pölyä!"
+    }
+  },
+  "discSales": {
+    "title": "Viimeisimmät kiekkomyynti-ilmoitukset",
+    "subtitle": "Selaa yhteisömme lisäämiä uusimpia kiekkoja",
+    "viewAll": "Näytä kaikki kiekot",
+    "loading": "Ladataan kiekkomyynti-ilmoituksia..."
+  },
+  "features": {
+    "title": "Ystävällistä kilpailua, vakavaa frisbeegolfia!",
+    "compete": {
+      "title": "Kilpaile",
+      "description": "Vie frisbeegolf-pelisi seuraavalle tasolle. Riippumatta siitä, pyritkö henkilökohtaiseen ennätykseen, kiipeät seurasi tulostaululla tai kilpailet PDGA-tapahtumissa, Capty auttaa sinua seuraamaan edistymistäsi, hiomaan taitojasi ja haastamaan ystäviäsi."
+    },
+    "compare": {
+      "title": "Vertaa",
+      "description": "Kuka seurassa on pelannut parhaat 10 kierrosta? Kuka on paras Circle 1 -puttaaja? Kenellä on paras PDGA-parannus viimeiselle vuodelle? - Saat vastaukset Captyssä"
+    },
+    "connect": {
+      "title": "Yhdistä",
+      "description": "Frisbeegolf on enemmän kuin vain urheilulaji—se on yhteisö. Capty yhdistää sinut matkustaessasi, löytää paikalliset tapahtumat ja jopa näyttää, kuka pelaa samoissa turnauksissa. Osta ja myy kiekkoja suoraan paikallisen yhteisösi sisällä."
+    }
+  },
+  "howItWorks": {
+    "title": "Miten se toimii",
+    "step1": {
+      "title": "Yhdistä paikalliseen seuraan",
+      "description": "Luo tilisi ja yhdistä seuraan, jos olet seuran jäsen."
+    },
+    "step2": {
+      "title": "Yhdistä ystäviisi",
+      "description": "Yhdistä ystäviisi ja ala selata kiekkoja, joita he eivät käytä!."
+    },
+    "step3": {
+      "title": "Osta, myy ja löydä kiekkoja",
+      "description": "Selaa markkinapaikkaa uusien ja käytettyjen kiekkojen löytämiseksi tai listaa oma kokoelmasi myyntiin."
+    },
+    "step4": {
+      "title": "Seuraa tulostaulua",
+      "description": "Kuka harjoittelee eniten putteja? Kenellä on eniten kiekkoja? Käytä tulostauluja ja vertaile."
+    }
+  },
+  "stats": {
+    "clubs": "Aktiivisia seuroja",
+    "members": "Aktiivisia jäseniä",
+    "salesAds": "Myynti-ilmoituksia"
+  },
+  "testimonials": {
+    "title": "Mitä toivomme käyttäjiemme sanovan",
+    "sarah": {
+      "name": "Sarah Johnson",
+      "role": "Ammattilainen frisbeegolfaaja",
+      "content": "Capty on mullistanut tavan, jolla seuraan edistymistäni ja yhdistyn frisbeegolf-yhteisöön. Se on game-changer!"
+    },
+    "mike": {
+      "name": "Mike Peterson",
+      "role": "Seuran puheenjohtaja",
+      "content": "Seuran tapahtumien hallinta ja jäsenten tulosten seuranta ei ole koskaan ollut helpompaa. Erittäin suositeltava!"
+    },
+    "lisa": {
+      "name": "Lisa Thompson",
+      "role": "Harrastepelaaja",
+      "content": "Kiekkojen markkinapaikka on mahtava! Olen löytänyt hyviä tarjouksia ja harvinaisia kiekkoja sovelluksen kautta."
+    }
+  },
+  "clubs": {
+    "title": "Esitellyt seurat",
+    "loading": "Ladataan seuroja...",
+    "manageButton": "Hallinnoi seuroja",
+    "table": {
+      "name": "Seuran nimi",
+      "location": "Sijainti",
+      "members": "Jäseniä"
+    },
+    "fallback": {
+      "name": "Frisbeegolf-seura",
+      "locations": {
+        "usa": "USA",
+        "sweden": "Ruotsi",
+        "finland": "Suomi",
+        "germany": "Saksa",
+        "norway": "Norja"
+      }
+    }
+  },
+  "faqs": {
+    "title": "Usein kysytyt kysymykset",
+    "marketplace": {
+      "question": "Miten markkinapaikka toimii?",
+      "answer": "Markkinapaikkamme yhdistää ostajat ja myyjät suoraan. Listaa kiekkosi kuvien ja tietojen kanssa tai selaa saatavilla olevia kiekkoja kehittyneillä suodattimilla."
+    },
+    "listings": {
+      "question": "Voinko listata kiekkoja ilmaiseksi?",
+      "answer": "Kyllä! kaikki ilmoitukset ovat täysin ilmaisia."
+    },
+    "scores": {
+      "question": "Miten seuraan tuloksiani?",
+      "answer": "Avaa sovellus kierroksesi aikana, valitse ratasi ja syötä tulokset pelatessasi. Sovellus laskee automaattisesti tilastoja ja seuraa edistymistäsi."
+    },
+    "subscription": {
+      "question": "Onko tämä taas yksi tilaussovellus?",
+      "answer": "Ei! Sovelluksessa ei ole tilauksia eikä sovelluksen sisäisiä ostoja. (Eikä se ole osa strategiaamme lisätä niitä tulevaisuudessa)"
+    }
+  },
+  "contact": {
+    "title": "Ota yhteyttä",
+    "successMessage": "Viestisi on lähetetty onnistuneesti! Vastaamme sinulle pian.",
+    "form": {
+      "name": "Nimi",
+      "email": "Sähköposti",
+      "message": "Viesti",
+      "send": "Lähetä viesti",
+      "sending": "Lähetetään..."
+    },
+    "errors": {
+      "submissionFailed": "Viestin lähettämisessä tapahtui virhe. Yritä myöhemmin uudelleen."
+    }
+  },
+  "footer": {
+    "tagline": "Ylivoimainen frisbeegolf-sovellus",
+    "legal": {
+      "title": "Lakiasiat",
+      "privacy": "Tietosuojakäytäntö",
+      "terms": "Käyttöehdot"
+    },
+    "social": {
+      "title": "Seuraa meitä",
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    },
+    "newsletter": {
+      "title": "Uutiskirje",
+      "description": "Pysy ajan tasalla uusimmista ominaisuuksistamme ja uutisista.",
+      "placeholder": "Syötä sähköpostiosoitteesi"
+    }
+  },
+  "login": {
+    "title": "Ylläpitäjän kirjautuminen",
+    "form": {
+      "email": "Sähköpostiosoite",
+      "password": "Salasana",
+      "signIn": "Kirjaudu sisään",
+      "signingIn": "Kirjaudutaan..."
+    },
+    "errors": {
+      "invalid": "Kirjautuminen epäonnistui. Tarkista kirjautumistietosi."
+    }
+  },
+  "errors": {
+    "failedToLoadClubs": "Seurojen lataaminen epäonnistui. Käytetään esimerkkitietoja."
+  }
+}

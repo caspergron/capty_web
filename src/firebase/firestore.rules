@@ -1,0 +1,25 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Club collection
+    match /clubs/{clubId} {
+      // Allow anyone to read club data
+      allow read: if true;
+      
+      // Only allow admin to write (for now, we're simplifying for demo purposes)
+      // In a production app, you'd add proper authentication checks
+      allow write: if true;
+    }
+    
+    // Existing rules for notification requests
+    match /notificationRequests/{document=**} {
+      allow write: if true;
+      allow read: if request.auth != null;
+    }
+    
+    // Default rules - restrict access
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "navigation": {
+    "features": "Funksjoner",
+    "howItWorks": "Hvordan det fungerer",
+    "testimonials": "Anmeldelser",
+    "clubs": "Klubber",
+    "faq": "FAQ",
+    "admin": {
+      "title": "Admin",
+      "clubs": "Klubb Admin",
+      "discSales": "Discsalg Admin"
+    },
+    "login": "Logg inn",
+    "logout": "Logg ut",
+    "openMenu": "Åpne meny",
+    "closeMenu": "Lukk meny"
+  },
+  "hero": {
+    "title": "En Disc Golf Markedsplass App",
+    "subtitle": "Kjøp og selg discene dine - På en enkel måte",
+    "appStore": "Last ned på App Store",
+    "googlePlay": "Få den på Google Play"
+  },
+  "beta": {
+    "attention": "OBS: Vi er i Beta-modus!",
+    "sampleData": "All data på nettstedet er for øyeblikket eksempeldata.",
+    "standBy": "Vær klar for vår første utgivelse i",
+    "releaseDate": "mai 2025",
+    "notifyButton": "Bli varslet når vi lanserer"
+  },
+  "notifications": {
+    "modal": {
+      "title": "Få varsel ved lansering",
+      "thankYou": "Takk!",
+      "submittedMessage": "Din varslingsforespørsel er sendt inn. Vi gir deg beskjed når Capty lanseres!"
+    },
+    "form": {
+      "name": "Navn",
+      "email": "E-postadresse",
+      "country": "Land",
+      "send": "Send",
+      "sending": "Sender...",
+      "cancel": "Avbryt"
+    },
+    "errors": {
+      "submitError": "Det oppstod et problem ved innsending av forespørselen din. Vennligst prøv igjen."
+    }
+  },
+  "value": {
+    "title": "Mer enn en App – En Game-Changer for Disc Golfere",
+    "description1": "Forestill deg å gå på en turnering og umiddelbart kunne bla gjennom discer fra andre spillere!",
+    "description2": "Forestill deg å reise verden rundt og ha et verktøy for å koble deg til lokale disc golfere som kan vise deg de beste banene.",
+    "description3": "Dette er bare noen av funksjonene som Capty tilbyr deg."
+  },
+  "usps": {
+    "discover": {
+      "title": "📍 Oppdag skjulte perler i klubben din",
+      "description": "Bla gjennom discer som klubbmedlemmene dine ikke lenger bruker! Finn sjeldne eller spillendrende discer som samlet støv."
+    },
+    "track": {
+      "title": "🏆 Spor og sammenlign fremgang",
+      "description": "Se hvem som gjør de største forbedringene i klubben din! Sammenlign PDGA årlig progresjon og utfordre hverandre til å nå nye høyder."
+    },
+    "sell": {
+      "title": "💰 Gjør dine gamle discer om til kontanter",
+      "description": "List dine ubrukte discer på markedsplassen og selg direkte til lokale spillere. Ingen flere ubrukte utstyr som samler støv!"
+    }
+  },
+  "discSales": {
+    "title": "Siste Disc Salgsannonser",
+    "subtitle": "Bla gjennom de siste discene lagt til av fellesskapet vårt",
+    "viewAll": "Se alle discer",
+    "loading": "Laster disc salgsannonser..."
+  },
+  "features": {
+    "title": "Vennlig konkurranse, seriøs Disc Golf!",
+    "compete": {
+      "title": "Konkurrer",
+      "description": "Ta disc golf-spillet ditt til neste nivå. Enten du sikter mot en personlig beste, klatrer på klubbens resultattavle eller konkurrerer i PDGA-arrangementer, hjelper Capty deg med å spore fremgangen din, forbedre ferdighetene dine og utfordre venner."
+    },
+    "compare": {
+      "title": "Sammenlign",
+      "description": "Hvem i klubben har spilt de beste 10 rundene? Hvem er den beste Circle 1-putteren? Hvem har den beste PDGA-forbedringen det siste året? - Få svarene i Capty"
+    },
+    "connect": {
+      "title": "Koble",
+      "description": "Disc golf er mer enn bare en sport—det er et fellesskap. Capty kobler deg når du reiser, finner lokale arrangementer, og til og med ser hvem som spiller på de samme turneringene. Kjøp og selg discer direkte innenfor din lokale scene."
+    }
+  },
+  "howItWorks": {
+    "title": "Hvordan det fungerer",
+    "step1": {
+      "title": "Koble til en lokal klubb",
+      "description": "Opprett kontoen din og koble til en klubb hvis du er medlem av en klubb."
+    },
+    "step2": {
+      "title": "Koble til vennene dine",
+      "description": "Koble til venner og begynn å bla gjennom discene de ikke bruker!."
+    },
+    "step3": {
+      "title": "Kjøp, selg og oppdag discer",
+      "description": "Bla gjennom markedsplassen for nye og brukte discer, eller list din egen samling for salg."
+    },
+    "step4": {
+      "title": "Følg resultattavlen",
+      "description": "Hvem øver mest på putting? Hvem eier flest discer? Bruk resultattavlene og sammenlign."
+    }
+  },
+  "stats": {
+    "clubs": "Aktive Klubber",
+    "members": "Aktive Medlemmer",
+    "salesAds": "Salgsannonser"
+  },
+  "testimonials": {
+    "title": "Hva vi håper brukerne våre vil si",
+    "sarah": {
+      "name": "Sarah Johnson",
+      "role": "Profesjonell Disc Golfer",
+      "content": "Capty har revolusjonert hvordan jeg sporer fremgangen min og kobler meg til disc golf-fellesskapet. Det er en game-changer!"
+    },
+    "mike": {
+      "name": "Mike Peterson",
+      "role": "Klubbleder",
+      "content": "Å administrere klubbarrangementene våre og holde styr på medlemmenes resultater har aldri vært enklere. Sterkt anbefalt!"
+    },
+    "lisa": {
+      "name": "Lisa Thompson",
+      "role": "Casual Spiller",
+      "content": "Discmarkedsplassen er fantastisk! Jeg har funnet gode tilbud og sjeldne discer gjennom appen."
+    }
+  },
+  "clubs": {
+    "title": "Utvalgte Klubber",
+    "loading": "Laster klubber...",
+    "manageButton": "Administrer Klubber",
+    "table": {
+      "name": "Klubbnavn",
+      "location": "Sted",
+      "members": "Medlemmer"
+    },
+    "fallback": {
+      "name": "Disc Golf Klubb",
+      "locations": {
+        "usa": "USA",
+        "sweden": "Sverige",
+        "finland": "Finland",
+        "germany": "Tyskland",
+        "norway": "Norge"
+      }
+    }
+  },
+  "faqs": {
+    "title": "Ofte stilte spørsmål",
+    "marketplace": {
+      "question": "Hvordan fungerer markedsplassen?",
+      "answer": "Vår markedsplass kobler kjøpere og selgere direkte. List discene dine med bilder og detaljer, eller bla gjennom tilgjengelige discer med avanserte filtre."
+    },
+    "listings": {
+      "question": "Kan jeg liste discer gratis?",
+      "answer": "Ja! alle annonser er helt gratis."
+    },
+    "scores": {
+      "question": "Hvordan sporer jeg resultatene mine?",
+      "answer": "Bare åpne appen under runden din, velg banen din og legg inn resultater mens du spiller. Appen beregner automatisk statistikk og sporer fremgangen din."
+    },
+    "subscription": {
+      "question": "Er dette enda en abonnementsapp?",
+      "answer": "Nei! Det er ingen abonnement og ingen kjøp i appen. (Og det er ikke en del av vår strategi å legge til det i fremtiden)"
+    }
+  },
+  "contact": {
+    "title": "Kontakt oss",
+    "successMessage": "Meldingen din er sendt! Vi kommer tilbake til deg så snart som mulig.",
+    "form": {
+      "name": "Navn",
+      "email": "E-post",
+      "message": "Melding",
+      "send": "Send melding",
+      "sending": "Sender..."
+    },
+    "errors": {
+      "submissionFailed": "Det oppstod et problem ved sending av meldingen din. Vennligst prøv igjen senere."
+    }
+  },
+  "footer": {
+    "tagline": "Den ultimate Disc Golf-appen",
+    "legal": {
+      "title": "Juridisk",
+      "privacy": "Personvernerklæring",
+      "terms": "Tjenestevilkår"
+    },
+    "social": {
+      "title": "Følg oss",
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    },
+    "newsletter": {
+      "title": "Nyhetsbrev",
+      "description": "Hold deg oppdatert med våre nyeste funksjoner og nyheter.",
+      "placeholder": "Skriv inn e-postadressen din"
+    }
+  },
+  "login": {
+    "title": "Admin Innlogging",
+    "form": {
+      "email": "E-postadresse",
+      "password": "Passord",
+      "signIn": "Logg inn",
+      "signingIn": "Logger inn..."
+    },
+    "errors": {
+      "invalid": "Innlogging mislyktes. Vennligst sjekk opplysningene dine."
+    }
+  },
+  "errors": {
+    "failedToLoadClubs": "Kunne ikke laste klubber. Bruker eksempeldata i stedet."
+  }
+}

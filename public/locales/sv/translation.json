@@ -1,0 +1,218 @@
+{
+  "navigation": {
+    "features": "Funktioner",
+    "howItWorks": "Hur det fungerar",
+    "testimonials": "Omdömen",
+    "clubs": "Klubbar",
+    "faq": "FAQ",
+    "admin": {
+      "title": "Admin",
+      "clubs": "Klubb Admin",
+      "discSales": "Discförsäljning Admin"
+    },
+    "login": "Logga in",
+    "logout": "Logga ut",
+    "openMenu": "Öppna meny",
+    "closeMenu": "Stäng meny"
+  },
+  "hero": {
+    "title": "En Disc Golf Marknadsplats App",
+    "subtitle": "Köp och sälj dina discar - På ett enkelt sätt",
+    "appStore": "Ladda ner på App Store",
+    "googlePlay": "Hämta den på Google Play"
+  },
+  "beta": {
+    "attention": "Observera: Vi är i Beta-läge!",
+    "sampleData": "All data på webbplatsen är för närvarande exempeldata.",
+    "standBy": "Var redo för vår första release i",
+    "releaseDate": "maj 2025",
+    "notifyButton": "Bli notifierad när vi lanserar"
+  },
+  "notifications": {
+    "modal": {
+      "title": "Få notifiering vid lansering",
+      "thankYou": "Tack!",
+      "submittedMessage": "Din notifieringsbegäran har skickats in. Vi meddelar dig när Capty lanseras!"
+    },
+    "form": {
+      "name": "Namn",
+      "email": "E-postadress",
+      "country": "Land",
+      "send": "Skicka",
+      "sending": "Skickar...",
+      "cancel": "Avbryt"
+    },
+    "errors": {
+      "submitError": "Det uppstod ett problem vid inskickning av din begäran. Försök igen."
+    }
+  },
+  "value": {
+    "title": "Mer än en App – En Game-Changer för Discgolfare",
+    "description1": "Föreställ dig att gå på en turnering och direkt kunna bläddra bland discar från andra spelare!",
+    "description2": "Föreställ dig att resa världen runt och ha ett verktyg för att ansluta till lokala discgolfare som kan visa dig de bästa banorna.",
+    "description3": "Dessa är bara några av de funktioner som Capty erbjuder dig."
+  },
+  "usps": {
+    "discover": {
+      "title": "📍 Upptäck dolda skatter i din klubb",
+      "description": "Bläddra bland discar som dina klubbmedlemmar inte längre använder! Hitta sällsynta eller spel-ändrande discar som samlade damm."
+    },
+    "track": {
+      "title": "🏆 Spåra och jämför framsteg",
+      "description": "Se vem som gör de största förbättringarna i din klubb! Jämför PDGA årlig progression och utmana varandra att nå nya höjder."
+    },
+    "sell": {
+      "title": "💰 Förvandla dina gamla discar till kontanter",
+      "description": "Lista dina oanvända discar på marknadsplatsen och sälj direkt till lokala spelare. Inga mer oanvända redskap som samlar damm!"
+    }
+  },
+  "discSales": {
+    "title": "Senaste Disc Försäljningsannonser",
+    "subtitle": "Bläddra bland de senaste discarna som lagts till av vårt community",
+    "viewAll": "Visa alla discar",
+    "loading": "Laddar discförsäljningsannonser..."
+  },
+  "features": {
+    "title": "Vänskaplig konkurrens, seriös Discgolf!",
+    "compete": {
+      "title": "Tävla",
+      "description": "Ta ditt discgolfspel till nästa nivå. Oavsett om du siktar på ett personbästa, klättrar på din klubbs resultattavla eller tävlar i PDGA-evenemang, hjälper Capty dig att spåra dina framsteg, förbättra dina färdigheter och utmana vänner."
+    },
+    "compare": {
+      "title": "Jämför",
+      "description": "Vem i klubben har spelat de bästa 10 rundorna? Vem är bäst på Circle 1-putting? Vem har den bästa PDGA-förbättringen det senaste året? - Få svaren i Capty"
+    },
+    "connect": {
+      "title": "Anslut",
+      "description": "Discgolf är mer än bara en sport—det är en gemenskap. Capty ansluter dig när du reser, hittar lokala evenemang och till och med ser vem som spelar på samma turneringar. Köp och sälj discar direkt inom din lokala scen."
+    }
+  },
+  "howItWorks": {
+    "title": "Hur det fungerar",
+    "step1": {
+      "title": "Anslut till en lokal klubb",
+      "description": "Skapa ditt konto och anslut till en klubb om du är medlem i en klubb."
+    },
+    "step2": {
+      "title": "Anslut till dina vänner",
+      "description": "Anslut till vänner och börja bläddra bland discarna de inte använder!."
+    },
+    "step3": {
+      "title": "Köp, sälj och upptäck discar",
+      "description": "Bläddra på marknadsplatsen efter nya och begagnade discar, eller lista din egen samling till försäljning."
+    },
+    "step4": {
+      "title": "Följ resultattavlan",
+      "description": "Vem övar mest puttar? Vem äger flest discar? Använd resultattavlorna och jämför."
+    }
+  },
+  "stats": {
+    "clubs": "Aktiva Klubbar",
+    "members": "Aktiva Medlemmar",
+    "salesAds": "Försäljningsannonser"
+  },
+  "testimonials": {
+    "title": "Vad vi hoppas våra användare kommer att säga",
+    "sarah": {
+      "name": "Sarah Johnson",
+      "role": "Professionell Discgolfare",
+      "content": "Capty har revolutionerat hur jag spårar mina framsteg och ansluter till discgolf-gemenskapen. Det är en game-changer!"
+    },
+    "mike": {
+      "name": "Mike Peterson",
+      "role": "Klubbledare",
+      "content": "Att hantera våra klubbevenemang och hålla koll på medlemmarnas resultat har aldrig varit enklare. Starkt rekommenderad!"
+    },
+    "lisa": {
+      "name": "Lisa Thompson",
+      "role": "Casual Spelare",
+      "content": "Discmarknadsplatsen är fantastisk! Jag har hittat bra erbjudanden och sällsynta discar genom appen."
+    }
+  },
+  "clubs": {
+    "title": "Utvalda Klubbar",
+    "loading": "Laddar klubbar...",
+    "manageButton": "Hantera Klubbar",
+    "table": {
+      "name": "Klubbnamn",
+      "location": "Plats",
+      "members": "Medlemmar"
+    },
+    "fallback": {
+      "name": "Discgolf Klubb",
+      "locations": {
+        "usa": "USA",
+        "sweden": "Sverige",
+        "finland": "Finland",
+        "germany": "Tyskland",
+        "norway": "Norge"
+      }
+    }
+  },
+  "faqs": {
+    "title": "Vanliga frågor",
+    "marketplace": {
+      "question": "Hur fungerar marknadsplatsen?",
+      "answer": "Vår marknadsplats kopplar ihop köpare och säljare direkt. Lista dina discar med foton och detaljer, eller bläddra bland tillgängliga discar med avancerade filter."
+    },
+    "listings": {
+      "question": "Kan jag lista discar gratis?",
+      "answer": "Ja! alla annonser är helt gratis."
+    },
+    "scores": {
+      "question": "Hur spårar jag mina resultat?",
+      "answer": "Öppna appen under din runda, välj din bana och mata in poäng medan du spelar. Appen beräknar automatiskt statistik och spårar dina framsteg."
+    },
+    "subscription": {
+      "question": "Är detta ytterligare en prenumerationsapp?",
+      "answer": "Nej! Det finns inga prenumerationer och inga köp i appen. (Och det är inte en del av vår strategi att lägga till det i framtiden)"
+    }
+  },
+  "contact": {
+    "title": "Kontakta oss",
+    "successMessage": "Ditt meddelande har skickats! Vi återkommer till dig så snart som möjligt.",
+    "form": {
+      "name": "Namn",
+      "email": "E-post",
+      "message": "Meddelande",
+      "send": "Skicka meddelande",
+      "sending": "Skickar..."
+    },
+    "errors": {
+      "submissionFailed": "Det uppstod ett problem vid skickandet av ditt meddelande. Försök igen senare."
+    }
+  },
+  "footer": {
+    "tagline": "Den ultimata Discgolf-appen",
+    "legal": {
+      "title": "Juridiskt",
+      "privacy": "Integritetspolicy",
+      "terms": "Användarvillkor"
+    },
+    "social": {
+      "title": "Följ oss",
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    },
+    "newsletter": {
+      "title": "Nyhetsbrev",
+      "description": "Håll dig uppdaterad med våra senaste funktioner och nyheter.",
+      "placeholder": "Ange din e-post"
+    }
+  },
+  "login": {
+    "title": "Admin Inloggning",
+    "form": {
+      "email": "E-postadress",
+      "password": "Lösenord",
+      "signIn": "Logga in",
+      "signingIn": "Loggar in..."
+    },
+    "errors": {
+      "invalid": "Inloggningen misslyckades. Kontrollera dina uppgifter."
+    }
+  },
+  "errors": {
+    "failedToLoadClubs": "Kunde inte ladda klubbar. Använder exempeldata istället."
+  }
+}

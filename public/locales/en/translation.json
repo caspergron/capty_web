@@ -1,0 +1,218 @@
+{
+  "navigation": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "testimonials": "Testimonials",
+    "clubs": "Clubs",
+    "faq": "FAQ",
+    "admin": {
+      "title": "Admin",
+      "clubs": "Club Admin",
+      "discSales": "Disc Sales Admin"
+    },
+    "login": "Login",
+    "logout": "Logout",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "title": "A Disc Golf Marketplace App",
+    "subtitle": "Buy and sell your discs - The easy way",
+    "appStore": "Download on the App Store",
+    "googlePlay": "Get it on Google Play"
+  },
+  "beta": {
+    "attention": "Attention: We are in Beta Mode!",
+    "sampleData": "All data on the website are currently sample data.",
+    "standBy": "Please stand by for our first release in",
+    "releaseDate": "May 2025",
+    "notifyButton": "Be Notified When We Launch"
+  },
+  "notifications": {
+    "modal": {
+      "title": "Get Notified at Launch",
+      "thankYou": "Thank you!",
+      "submittedMessage": "Your notification request has been submitted. We'll let you know when Capty launches!"
+    },
+    "form": {
+      "name": "Name",
+      "email": "Email Address",
+      "country": "Country",
+      "send": "Send",
+      "sending": "Sending...",
+      "cancel": "Cancel"
+    },
+    "errors": {
+      "submitError": "There was a problem submitting your request. Please try again."
+    }
+  },
+  "value": {
+    "title": "More Than an App – A Game-Changer for Disc Golfers",
+    "description1": "Imagine going to a tournament and instantly browsing discs from other players!",
+    "description2": "Imagine traveling the world and having a tool to connect with local disc golfers who can show you the best courses.",
+    "description3": "These are just some of the features that Capty brings to you."
+  },
+  "usps": {
+    "discover": {
+      "title": "📍 Discover Hidden Gems in Your Club",
+      "description": "Browse through discs that your club members no longer use! Find rare or game-changing discs that were collecting dust."
+    },
+    "track": {
+      "title": "🏆 Track & Compare Progress",
+      "description": "See who's making the biggest improvements in your club! Compare PDGA yearly progression and challenge each other to level up."
+    },
+    "sell": {
+      "title": "💰 Turn Your Old Discs into Cash",
+      "description": "List your unused discs in the marketplace and sell directly to local players. No more unused gear collecting dust!"
+    }
+  },
+  "discSales": {
+    "title": "Latest Disc Sales ads",
+    "subtitle": "Browse the latest discs added by our community",
+    "viewAll": "View all discs",
+    "loading": "Loading disc sales ads..."
+  },
+  "features": {
+    "title": "Friendly Competition, Serious Disc Golf!",
+    "compete": {
+      "title": "Compete",
+      "description": "Take your disc golf game to the next level. Whether you're aiming for a personal best, climbing your club's leaderboard, or competing at PDGA events, Capty helps you track your progress, refine your skills, and challenge friends."
+    },
+    "compare": {
+      "title": "Compare",
+      "description": "Who in the club has played the best last 10 rounds? Who is the best Circle 1 putter? Who has the best PDGA improvement in the last year? - Get the answers in Capty"
+    },
+    "connect": {
+      "title": "Connect",
+      "description": "Disc golf is more than just a sport—it's a community. Capty connects you when you travel, find local events, and even spot who's playing at the same tournaments. Buy and sell discs directly within your local scene."
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "step1": {
+      "title": "Connect to a local club",
+      "description": "Create your account and connect to a club if you are a member of a club."
+    },
+    "step2": {
+      "title": "Connect to your friends",
+      "description": "Connect to friends and start browsing in the discs they dont use!."
+    },
+    "step3": {
+      "title": "Buy, Sell & Discover Discs",
+      "description": "Browse the marketplace for new and used discs, or list your own collection for sale."
+    },
+    "step4": {
+      "title": "Follow the leaderboard",
+      "description": "Who is practising the most putts? Who owns the most discs? Use the leaderboards and compare."
+    }
+  },
+  "stats": {
+    "clubs": "Active Clubs",
+    "members": "Active Members",
+    "salesAds": "Sales Ads"
+  },
+  "testimonials": {
+    "title": "What We Hope Our Users Will Say",
+    "sarah": {
+      "name": "Sarah Johnson",
+      "role": "Professional Disc Golfer",
+      "content": "Capty has revolutionized how I track my progress and connect with the disc golf community. It's a game-changer!"
+    },
+    "mike": {
+      "name": "Mike Peterson",
+      "role": "Club Leader",
+      "content": "Managing our club events and keeping track of member scores has never been easier. Highly recommended!"
+    },
+    "lisa": {
+      "name": "Lisa Thompson",
+      "role": "Casual Player",
+      "content": "The disc marketplace is amazing! I've found some great deals and rare discs through the app."
+    }
+  },
+  "clubs": {
+    "title": "Featured Clubs",
+    "loading": "Loading clubs...",
+    "manageButton": "Manage Clubs",
+    "table": {
+      "name": "Club Name",
+      "location": "Location",
+      "members": "Members"
+    },
+    "fallback": {
+      "name": "Disc Golf Club",
+      "locations": {
+        "usa": "USA",
+        "sweden": "Sweden",
+        "finland": "Finland",
+        "germany": "Germany",
+        "norway": "Norway"
+      }
+    }
+  },
+  "faqs": {
+    "title": "Frequently Asked Questions",
+    "marketplace": {
+      "question": "How does the marketplace work?",
+      "answer": "Our marketplace connects buyers and sellers directly. List your discs with photos and details, or browse available discs with advanced filters."
+    },
+    "listings": {
+      "question": "Can I list discs for free?",
+      "answer": "Yes! all listings are completely free."
+    },
+    "scores": {
+      "question": "How do I track my scores?",
+      "answer": "Simply open the app during your round, select your course, and input scores as you play. The app automatically calculates statistics and tracks your progress."
+    },
+    "subscription": {
+      "question": "Is this another subscription app?",
+      "answer": "No! There are no subscription and no inapp purchases. (And it is not part of our strategy to add it in the future)"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "successMessage": "Your message has been sent successfully! We'll get back to you soon.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending..."
+    },
+    "errors": {
+      "submissionFailed": "There was a problem submitting your message. Please try again later."
+    }
+  },
+  "footer": {
+    "tagline": "The Ultimate Disc Golf App",
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "social": {
+      "title": "Follow Us",
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Stay updated with our latest features and news.",
+      "placeholder": "Enter your email"
+    }
+  },
+  "login": {
+    "title": "Admin Login",
+    "form": {
+      "email": "Email Address",
+      "password": "Password",
+      "signIn": "Sign In",
+      "signingIn": "Signing in..."
+    },
+    "errors": {
+      "invalid": "Failed to sign in. Please check your credentials."
+    }
+  },
+  "errors": {
+    "failedToLoadClubs": "Failed to load clubs. Using sample data instead."
+  }
+}
