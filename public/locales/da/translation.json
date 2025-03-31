@@ -18,8 +18,8 @@
   "hero": {
     "title": "En Disc Golf Markedsplads App",
     "subtitle": "Køb og sælg dine discs - Nemt og enkelt",
-    "appStore": "Download på App Store",
-    "googlePlay": "Hent den på Google Play"
+    "appStore": "Appstore (Først klar til Maj 2025)",
+    "googlePlay": "Google Play (Først klar til Maj 2025)"
   },
   "beta": {
     "attention": "OBS: Vi er i Beta!",
@@ -48,22 +48,22 @@
   },
   "value": {
     "title": "Mere end en App – En Game-Changer for Disc Golfere",
-    "description1": "Forestil dig at tage til en turnering og straks kunne se discs fra andre spillere!",
+    "description1": "Forestil dig at tage til en turnering, men at du kan browse i de andre spilleres discs først ",
     "description2": "Forestil dig at rejse verden rundt og have et værktøj til at forbinde med lokale disc golfere, som kan vise dig de bedste baner.",
     "description3": "Dette er bare nogle af de funktioner, som Capty tilbyder dig."
   },
   "usps": {
     "discover": {
       "title": "📍 Opdag skjulte perler i din klub",
-      "description": "Gennemse discs, som dine klubmedlemmer ikke længere bruger! Find sjældne eller spilændrende discs, der samler støv."
+      "description": "Gennemse discs, som dine klubmedlemmer ikke længere bruger! Find sjældne discs, der samler støv i kælderen hos dine klubmedlemmer."
     },
     "track": {
       "title": "🏆 Spor og sammenlign fremskridt",
-      "description": "Se hvem der gør de største fremskridt i din klub! Sammenlign PDGA-årlig progression og udfordr hinanden til at nå nye højder."
+      "description": "Se hvem der gør de største fremskridt i din klub! Sammenlign PDGA-årlig progression eller se hvem der har lavet flest putts."
     },
     "sell": {
       "title": "💰 Forvandl dine ubrugte discs til kontanter",
-      "description": "List dine ubrugte discs på markedspladsen og sælg direkte til lokale spillere. Ingen flere ubrugte discs, der samler støv!"
+      "description": "List dine ubrugte discs på markedspladsen og sælg direkte til lokale spillere. Stop med at lave uendelige opdateringer af salgs annoncer på FB"
     }
   },
   "discSales": {
@@ -73,7 +73,7 @@
     "loading": "Indlæser disc salgsannoncer..."
   },
   "features": {
-    "title": "Venskabelig konkurrence, seriøs Disc Golf!",
+    "title": "Brug appen til at sammenligne jer i klubben",
     "compete": {
       "title": "Konkurrér",
       "description": "Tag dit disc golf spil til næste niveau. Uanset om du stræber efter en personlig rekord, klatrer op ad din klubs rangliste eller deltager i PDGA-turneringer, hjælper Capty dig med at spore dine fremskridt, forbedre dine færdigheder og udfordre venner."
@@ -90,7 +90,7 @@
   "howItWorks": {
     "title": "Sådan fungerer det",
     "step1": {
-      "title": "Forbind til en lokal klub",
+      "title": "Knyt dig til en lokal klub",
       "description": "Opret din konto og forbind til en klub, hvis du er medlem af en klub."
     },
     "step2": {
@@ -121,7 +121,7 @@
     "mike": {
       "name": "Mike Peterson",
       "role": "Klubleder",
-      "content": "Styring af vores klubbegivenheder og holde styr på medlemmernes scores har aldrig været nemmere. Stærkt anbefalet!"
+      "content": "Styring af vores klub begivenheder og holde styr på medlemmernes scores har aldrig været nemmere. Stærkt anbefalet!"
     },
     "lisa": {
       "name": "Lisa Thompson",
