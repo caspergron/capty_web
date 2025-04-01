@@ -252,24 +252,41 @@ function HomePage() {
       {/* Hero Section */}
       <section ref={heroRef} className="relative overflow-hidden bg-primary pt-16 pb-32">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <div className="mx-auto max-w-2xl lg:max-w-4xl text-center">
+          <div className="mx-auto max-w-2xl lg:max-w-4xl text-center relative z-10">
             <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
               {t('hero.title')}
             </h1>
             <p className="mt-6 text-lg leading-8 text-primary-lighter">
               {t('hero.subtitle')}
             </p>
-            <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a href="#" className="flex items-center gap-2 rounded-md bg-accent px-6 py-3 text-white hover:bg-opacity-90">
-                <AppStore className="h-6 w-6" />
-                {t('hero.appStore')}
+            <div className="mt-10 flex items-center justify-center gap-x-6 relative z-10">
+              <a href="#" className="inline-block">
+                <img 
+                  src="https://firebasestorage.googleapis.com/v0/b/capty-webpage.firebasestorage.app/o/Store%3DApp%20Store%2C%20Type%3DDark%2C%20Language%3DEnglish%402x.png?alt=media&token=c9bf3a9d-ecb7-4462-86c0-c69fad9e1b27" 
+                  alt="Download on the App Store" 
+                  className="h-12"
+                  title={t('hero.appStore')}
+                />
               </a>
-              <a href="#" className="flex items-center gap-2 rounded-md bg-accent px-6 py-3 text-white hover:bg-opacity-90">
-                <Download className="h-6 w-6" />
-                {t('hero.googlePlay')}
+              <a href="#" className="inline-block">
+                <img 
+                  src="https://firebasestorage.googleapis.com/v0/b/capty-webpage.firebasestorage.app/o/Store%3DGoogle%20Play%2C%20Type%3DDark%2C%20Language%3DEnglish%402x.png?alt=media&token=0b817346-0e21-477d-a774-9694102af13c" 
+                  alt="Get it on Google Play" 
+                  className="h-12"
+                  title={t('hero.googlePlay')}
+                />
               </a>
             </div>
           </div>
+        </div>
+        
+        {/* Disc Golf Player Image */}
+        <div className="absolute bottom-0 left-1/2 lg:left-0 transform -translate-x-1/2 lg:translate-x-0 lg:pl-[50px] w-full">
+          <img
+            src="https://firebasestorage.googleapis.com/v0/b/capty-webpage.firebasestorage.app/o/discgolf%20player.png?alt=media&token=1632751d-7d79-4b53-8328-bdab89cac7e0"
+            alt="Disc Golf Player"
+            className="w-full max-w-xs mx-auto lg:mx-0 h-auto object-contain lg:max-w-sm xl:max-w-md"
+          />
         </div>
       </section>
 

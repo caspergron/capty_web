@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { Disc, Menu, X, ChevronDown, LogOut, User } from 'lucide-react';
+import { Menu, X, ChevronDown, LogOut, User } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 import { useTranslation } from 'react-i18next';
 import LanguageSelector from './LanguageSelector';
@@ -61,7 +61,11 @@ function Navigation() {
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-2 hover:text-primary-lighter transition-colors">
-            <Disc className="h-8 w-8" />
+            <img 
+              src="https://firebasestorage.googleapis.com/v0/b/capty-webpage.firebasestorage.app/o/Layer%201.png?alt=media&token=04010ae7-9af0-4306-8885-d1782d4f47c1"
+              alt="Capty Logo"
+              className="h-8 w-auto"
+            />
             <span className="text-xl font-bold">Capty</span>
           </Link>
 

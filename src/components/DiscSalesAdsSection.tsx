@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { getLatestDiscSalesAds, DiscSalesAd } from '../services/discSalesAdService';
 import DiscSalesAdCard from './DiscSalesAdCard';
 import { ShoppingCart, ArrowRight } from 'lucide-react';
+import { useTranslation } from 'react-i18next';
 
 // Sample data for fallback in case Firebase fetch fails
 const fallbackAds: DiscSalesAd[] = [
@@ -68,6 +69,7 @@ const fallbackAds: DiscSalesAd[] = [
 ];
 
 const DiscSalesAdsSection: React.FC = () => {
+  const { t } = useTranslation();
   const [ads, setAds] = useState<DiscSalesAd[]>(fallbackAds);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -104,8 +106,8 @@ const DiscSalesAdsSection: React.FC = () => {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="flex justify-between items-center mb-12">
           <div>
-            <h2 className="text-3xl font-bold text-primary">Latest Disc Sales ads</h2>
-            <p className="mt-2 text-lg text-gray-600">Browse the latest discs added by our community</p>
+            <h2 className="text-3xl font-bold text-primary">{t('discSales.title')}</h2>
+            <p className="mt-2 text-lg text-gray-600">{t('discSales.subtitle')}</p>
           </div>
           {error && (
             <div className="text-sm text-amber-600 bg-amber-50 px-3 py-1 rounded-md">
@@ -113,7 +115,7 @@ const DiscSalesAdsSection: React.FC = () => {
             </div>
           )}
           <a href="#" className="hidden md:flex items-center gap-1 text-accent hover:text-accent/80 font-medium">
-            View all discs
+            {t('discSales.viewAll')}
             <ArrowRight className="h-4 w-4" />
           </a>
         </div>
@@ -121,7 +123,7 @@ const DiscSalesAdsSection: React.FC = () => {
         {loading ? (
           <div className="text-center py-16">
             <div className="inline-block h-10 w-10 animate-spin rounded-full border-4 border-solid border-primary border-r-transparent align-[-0.125em] motion-reduce:animate-[spin_1.5s_linear_infinite]"></div>
-            <p className="mt-4 text-gray-600">Loading disc sales ads...</p>
+            <p className="mt-4 text-gray-600">{t('discSales.loading')}</p>
           </div>
         ) : (
           <>
@@ -136,7 +138,7 @@ const DiscSalesAdsSection: React.FC = () => {
             <div className="mt-8 text-center md:hidden">
               <a href="#" className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-white rounded-md hover:bg-primary-light">
                 <ShoppingCart className="h-5 w-5" />
-                View All Discs
+                {t('discSales.viewAll')}
               </a>
             </div>
           </>
