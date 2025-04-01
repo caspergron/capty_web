@@ -1,0 +1,218 @@
+{
+  "navigation": {
+    "features": "Functies",
+    "howItWorks": "Hoe het werkt",
+    "testimonials": "Getuigenissen",
+    "clubs": "Clubs",
+    "faq": "FAQ",
+    "admin": {
+      "title": "Admin",
+      "clubs": "Club Beheer",
+      "discSales": "Disc Verkoop Beheer"
+    },
+    "login": "Inloggen",
+    "logout": "Uitloggen",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten"
+  },
+  "hero": {
+    "title": "Een Disc Golf Marktplaats App",
+    "subtitle": "Koop en verkoop je discs - Op een eenvoudige manier",
+    "appStore": "Download in de App Store",
+    "googlePlay": "Download via Google Play"
+  },
+  "beta": {
+    "attention": "Let op: We zijn in Beta Modus!",
+    "sampleData": "Alle gegevens op de website zijn momenteel voorbeeldgegevens.",
+    "standBy": "Wacht op onze eerste release in",
+    "releaseDate": "mei 2025",
+    "notifyButton": "Word op de hoogte gebracht bij lancering"
+  },
+  "notifications": {
+    "modal": {
+      "title": "Word op de hoogte gebracht bij lancering",
+      "thankYou": "Bedankt!",
+      "submittedMessage": "Je notificatieverzoek is ingediend. We laten je weten wanneer Capty wordt gelanceerd!"
+    },
+    "form": {
+      "name": "Naam",
+      "email": "E-mailadres",
+      "country": "Land",
+      "send": "Versturen",
+      "sending": "Versturen...",
+      "cancel": "Annuleren"
+    },
+    "errors": {
+      "submitError": "Er is een probleem opgetreden bij het indienen van je verzoek. Probeer het opnieuw."
+    }
+  },
+  "value": {
+    "title": "Meer dan een App – Een Game-Changer voor Disc Golfers",
+    "description1": "Stel je voor dat je naar een toernooi gaat en direct discs van andere spelers kunt bekijken!",
+    "description2": "Stel je voor dat je de wereld rondreist en een tool hebt om in contact te komen met lokale disc golfers die je de beste banen kunnen laten zien.",
+    "description3": "Dit zijn slechts enkele van de functies die Capty je biedt."
+  },
+  "usps": {
+    "discover": {
+      "title": "📍 Ontdek verborgen pareltjes in je club",
+      "description": "Blader door discs die je clubleden niet meer gebruiken! Vind zeldzame of spelveranderende discs die stof lagen te verzamelen."
+    },
+    "track": {
+      "title": "🏆 Volg & vergelijk voortgang",
+      "description": "Zie wie de grootste verbeteringen in je club maakt! Vergelijk PDGA jaarlijkse progressie en daag elkaar uit om naar een hoger niveau te gaan."
+    },
+    "sell": {
+      "title": "💰 Zet je oude discs om in geld",
+      "description": "Zet je ongebruikte discs op de marktplaats en verkoop direct aan lokale spelers. Geen ongebruikte uitrusting meer die stof verzamelt!"
+    }
+  },
+  "discSales": {
+    "title": "Nieuwste Disc Verkoopadvertenties",
+    "subtitle": "Bekijk de nieuwste discs toegevoegd door onze community",
+    "viewAll": "Bekijk alle discs",
+    "loading": "Disc verkoopadvertenties laden..."
+  },
+  "features": {
+    "title": "Vriendelijke concurrentie, serieus Disc Golf!",
+    "compete": {
+      "title": "Wedijveren",
+      "description": "Breng je disc golf spel naar een hoger niveau. Of je nu streeft naar een persoonlijk record, op het scorebord van je club wilt klimmen, of wilt deelnemen aan PDGA-evenementen, Capty helpt je je voortgang bij te houden, je vaardigheden te verfijnen en vrienden uit te dagen."
+    },
+    "compare": {
+      "title": "Vergelijken",
+      "description": "Wie in de club heeft de beste 10 rondes gespeeld? Wie is de beste Circle 1 putter? Wie heeft de beste PDGA-verbetering in het afgelopen jaar? - Krijg de antwoorden in Capty"
+    },
+    "connect": {
+      "title": "Verbinden",
+      "description": "Disc golf is meer dan alleen een sport—het is een gemeenschap. Capty verbindt je wanneer je reist, lokale evenementen vindt en zelfs ziet wie er op dezelfde toernooien speelt. Koop en verkoop discs direct binnen je lokale scene."
+    }
+  },
+  "howItWorks": {
+    "title": "Hoe het werkt",
+    "step1": {
+      "title": "Verbind met een lokale club",
+      "description": "Maak je account aan en verbind met een club als je lid bent van een club."
+    },
+    "step2": {
+      "title": "Verbind met je vrienden",
+      "description": "Verbind met vrienden en begin te bladeren in de discs die ze niet gebruiken!."
+    },
+    "step3": {
+      "title": "Koop, verkoop & ontdek discs",
+      "description": "Blader door de marktplaats voor nieuwe en gebruikte discs, of zet je eigen collectie te koop."
+    },
+    "step4": {
+      "title": "Volg het scorebord",
+      "description": "Wie oefent de meeste putts? Wie bezit de meeste discs? Gebruik de scoreborden en vergelijk."
+    }
+  },
+  "stats": {
+    "clubs": "Actieve Clubs",
+    "members": "Actieve Leden",
+    "salesAds": "Verkoopadvertenties"
+  },
+  "testimonials": {
+    "title": "Wat we hopen dat onze gebruikers zullen zeggen",
+    "sarah": {
+      "name": "Sarah Johnson",
+      "role": "Professionele Disc Golfer",
+      "content": "Capty heeft revolutionair veranderd hoe ik mijn voortgang bijhoud en verbind met de disc golf gemeenschap. Het is een game-changer!"
+    },
+    "mike": {
+      "name": "Mike Peterson",
+      "role": "Clubleider",
+      "content": "Het beheren van onze clubevenementen en het bijhouden van ledenscores is nog nooit zo eenvoudig geweest. Sterk aanbevolen!"
+    },
+    "lisa": {
+      "name": "Lisa Thompson",
+      "role": "Casual Speler",
+      "content": "De disc marktplaats is geweldig! Ik heb enkele goede deals en zeldzame discs gevonden via de app."
+    }
+  },
+  "clubs": {
+    "title": "Uitgelichte Clubs",
+    "loading": "Clubs laden...",
+    "manageButton": "Clubs beheren",
+    "table": {
+      "name": "Clubnaam",
+      "location": "Locatie",
+      "members": "Leden"
+    },
+    "fallback": {
+      "name": "Disc Golf Club",
+      "locations": {
+        "usa": "VS",
+        "sweden": "Zweden",
+        "finland": "Finland",
+        "germany": "Duitsland",
+        "norway": "Noorwegen"
+      }
+    }
+  },
+  "faqs": {
+    "title": "Veelgestelde vragen",
+    "marketplace": {
+      "question": "Hoe werkt de marktplaats?",
+      "answer": "Onze marktplaats verbindt kopers en verkopers direct. Zet je discs te koop met foto's en details, of blader door beschikbare discs met geavanceerde filters."
+    },
+    "listings": {
+      "question": "Kan ik discs gratis aanbieden?",
+      "answer": "Ja! alle advertenties zijn volledig gratis."
+    },
+    "scores": {
+      "question": "Hoe houd ik mijn scores bij?",
+      "answer": "Open gewoon de app tijdens je ronde, selecteer je baan en voer scores in terwijl je speelt. De app berekent automatisch statistieken en houdt je voortgang bij."
+    },
+    "subscription": {
+      "question": "Is dit nog een abonnements-app?",
+      "answer": "Nee! Er zijn geen abonnementen en geen in-app aankopen. (En het is geen onderdeel van onze strategie om dit in de toekomst toe te voegen)"
+    }
+  },
+  "contact": {
+    "title": "Neem contact met ons op",
+    "successMessage": "Je bericht is succesvol verzonden! We nemen binnenkort contact met je op.",
+    "form": {
+      "name": "Naam",
+      "email": "E-mail",
+      "message": "Bericht",
+      "send": "Bericht versturen",
+      "sending": "Versturen..."
+    },
+    "errors": {
+      "submissionFailed": "Er is een probleem opgetreden bij het verzenden van je bericht. Probeer het later opnieuw."
+    }
+  },
+  "footer": {
+    "tagline": "De ultieme Disc Golf App",
+    "legal": {
+      "title": "Juridisch",
+      "privacy": "Privacybeleid",
+      "terms": "Servicevoorwaarden"
+    },
+    "social": {
+      "title": "Volg ons",
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    },
+    "newsletter": {
+      "title": "Nieuwsbrief",
+      "description": "Blijf op de hoogte van onze nieuwste functies en nieuws.",
+      "placeholder": "Voer je e-mail in"
+    }
+  },
+  "login": {
+    "title": "Admin Login",
+    "form": {
+      "email": "E-mailadres",
+      "password": "Wachtwoord",
+      "signIn": "Inloggen",
+      "signingIn": "Inloggen..."
+    },
+    "errors": {
+      "invalid": "Inloggen mislukt. Controleer je inloggegevens."
+    }
+  },
+  "errors": {
+    "failedToLoadClubs": "Kon clubs niet laden. Gebruikt voorbeeldgegevens in plaats daarvan."
+  }
+}

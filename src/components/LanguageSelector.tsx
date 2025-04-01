@@ -41,8 +41,10 @@ const LanguageSelector: React.FC = () => {
         aria-expanded={isOpen}
       >
         <Globe className="h-5 w-5" />
-        <span className="hidden sm:inline">{currentLanguage.flag} {currentLanguage.code.toUpperCase()}</span>
-        <span className="inline sm:hidden">{currentLanguage.flag}</span>
+        <span className="flex items-center gap-1">
+          <span>{currentLanguage.flag}</span>
+          <span>{currentLanguage.code.toUpperCase()}</span>
+        </span>
         <ChevronDown className="h-4 w-4" />
       </button>
       
@@ -58,8 +60,10 @@ const LanguageSelector: React.FC = () => {
                 }`}
                 role="menuitem"
               >
-                <span className="mr-2">{language.flag}</span>
-                {language.name}
+                <span className="flex items-center">
+                  <span className="mr-2">{language.flag}</span>
+                  <span>{language.name}</span>
+                </span>
               </button>
             ))}
           </div>

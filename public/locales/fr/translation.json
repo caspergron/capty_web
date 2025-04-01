@@ -1,0 +1,218 @@
+{
+  "navigation": {
+    "features": "Fonctionnalités",
+    "howItWorks": "Comment ça marche",
+    "testimonials": "Témoignages",
+    "clubs": "Clubs",
+    "faq": "FAQ",
+    "admin": {
+      "title": "Admin",
+      "clubs": "Admin des Clubs",
+      "discSales": "Admin des Ventes de Disques"
+    },
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu"
+  },
+  "hero": {
+    "title": "Une Application de Marché de Disc Golf",
+    "subtitle": "Achetez et vendez vos disques - En toute simplicité",
+    "appStore": "Télécharger sur l'App Store",
+    "googlePlay": "Obtenir sur Google Play"
+  },
+  "beta": {
+    "attention": "Attention : Nous sommes en mode Bêta !",
+    "sampleData": "Toutes les données sur le site web sont actuellement des exemples.",
+    "standBy": "Veuillez patienter pour notre première version en",
+    "releaseDate": "mai 2025",
+    "notifyButton": "Être notifié du lancement"
+  },
+  "notifications": {
+    "modal": {
+      "title": "Être notifié au lancement",
+      "thankYou": "Merci !",
+      "submittedMessage": "Votre demande de notification a été envoyée. Nous vous préviendrons lorsque Capty sera lancé !"
+    },
+    "form": {
+      "name": "Nom",
+      "email": "Adresse e-mail",
+      "country": "Pays",
+      "send": "Envoyer",
+      "sending": "Envoi en cours...",
+      "cancel": "Annuler"
+    },
+    "errors": {
+      "submitError": "Un problème est survenu lors de l'envoi de votre demande. Veuillez réessayer."
+    }
+  },
+  "value": {
+    "title": "Plus qu'une Application – Un Changement de Jeu pour les Joueurs de Disc Golf",
+    "description1": "Imaginez aller à un tournoi et parcourir instantanément les disques d'autres joueurs !",
+    "description2": "Imaginez voyager à travers le monde et avoir un outil pour vous connecter avec des joueurs de disc golf locaux qui peuvent vous montrer les meilleurs parcours.",
+    "description3": "Ce ne sont que quelques-unes des fonctionnalités que Capty vous propose."
+  },
+  "usps": {
+    "discover": {
+      "title": "📍 Découvrez des trésors cachés dans votre club",
+      "description": "Parcourez les disques que vos membres de club n'utilisent plus ! Trouvez des disques rares ou révolutionnaires qui prenaient la poussière."
+    },
+    "track": {
+      "title": "🏆 Suivez et comparez les progrès",
+      "description": "Voyez qui fait les plus grandes améliorations dans votre club ! Comparez la progression annuelle PDGA et défiez-vous mutuellement pour monter en niveau."
+    },
+    "sell": {
+      "title": "💰 Transformez vos vieux disques en argent",
+      "description": "Listez vos disques non utilisés sur le marché et vendez directement aux joueurs locaux. Plus d'équipement inutilisé qui prend la poussière !"
+    }
+  },
+  "discSales": {
+    "title": "Dernières annonces de vente de disques",
+    "subtitle": "Parcourez les derniers disques ajoutés par notre communauté",
+    "viewAll": "Voir tous les disques",
+    "loading": "Chargement des annonces de vente de disques..."
+  },
+  "features": {
+    "title": "Compétition amicale, Disc Golf sérieux !",
+    "compete": {
+      "title": "Compétition",
+      "description": "Amenez votre jeu de disc golf au niveau supérieur. Que vous visiez un record personnel, grimpiez au classement de votre club ou participiez à des événements PDGA, Capty vous aide à suivre vos progrès, à affiner vos compétences et à défier vos amis."
+    },
+    "compare": {
+      "title": "Comparaison",
+      "description": "Qui dans le club a joué les 10 meilleures rondes ? Qui est le meilleur putteur de Circle 1 ? Qui a la meilleure amélioration PDGA au cours de la dernière année ? - Obtenez les réponses dans Capty"
+    },
+    "connect": {
+      "title": "Connexion",
+      "description": "Le disc golf est plus qu'un simple sport—c'est une communauté. Capty vous connecte lorsque vous voyagez, trouvez des événements locaux, et même repérez qui joue aux mêmes tournois. Achetez et vendez des disques directement au sein de votre scène locale."
+    }
+  },
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "step1": {
+      "title": "Connectez-vous à un club local",
+      "description": "Créez votre compte et connectez-vous à un club si vous êtes membre d'un club."
+    },
+    "step2": {
+      "title": "Connectez-vous à vos amis",
+      "description": "Connectez-vous à vos amis et commencez à parcourir les disques qu'ils n'utilisent pas !."
+    },
+    "step3": {
+      "title": "Achetez, vendez et découvrez des disques",
+      "description": "Parcourez le marché pour des disques neufs et d'occasion, ou listez votre propre collection à vendre."
+    },
+    "step4": {
+      "title": "Suivez le classement",
+      "description": "Qui s'entraîne le plus aux putts ? Qui possède le plus de disques ? Utilisez les classements et comparez."
+    }
+  },
+  "stats": {
+    "clubs": "Clubs Actifs",
+    "members": "Membres Actifs",
+    "salesAds": "Annonces de Vente"
+  },
+  "testimonials": {
+    "title": "Ce que nous espérons que nos utilisateurs diront",
+    "sarah": {
+      "name": "Sarah Johnson",
+      "role": "Joueuse Professionnelle de Disc Golf",
+      "content": "Capty a révolutionné la façon dont je suis mes progrès et me connecte avec la communauté du disc golf. C'est un changement de jeu !"
+    },
+    "mike": {
+      "name": "Mike Peterson",
+      "role": "Leader de Club",
+      "content": "Gérer nos événements de club et suivre les scores des membres n'a jamais été aussi facile. Hautement recommandé !"
+    },
+    "lisa": {
+      "name": "Lisa Thompson",
+      "role": "Joueuse Occasionnelle",
+      "content": "Le marché des disques est incroyable ! J'ai trouvé de bonnes affaires et des disques rares grâce à l'application."
+    }
+  },
+  "clubs": {
+    "title": "Clubs en Vedette",
+    "loading": "Chargement des clubs...",
+    "manageButton": "Gérer les Clubs",
+    "table": {
+      "name": "Nom du Club",
+      "location": "Emplacement",
+      "members": "Membres"
+    },
+    "fallback": {
+      "name": "Club de Disc Golf",
+      "locations": {
+        "usa": "États-Unis",
+        "sweden": "Suède",
+        "finland": "Finlande",
+        "germany": "Allemagne",
+        "norway": "Norvège"
+      }
+    }
+  },
+  "faqs": {
+    "title": "Questions Fréquemment Posées",
+    "marketplace": {
+      "question": "Comment fonctionne le marché ?",
+      "answer": "Notre marché connecte directement les acheteurs et les vendeurs. Listez vos disques avec photos et détails, ou parcourez les disques disponibles avec des filtres avancés."
+    },
+    "listings": {
+      "question": "Puis-je lister des disques gratuitement ?",
+      "answer": "Oui ! toutes les annonces sont complètement gratuites."
+    },
+    "scores": {
+      "question": "Comment suivre mes scores ?",
+      "answer": "Ouvrez simplement l'application pendant votre ronde, sélectionnez votre parcours et saisissez les scores au fur et à mesure. L'application calcule automatiquement les statistiques et suit vos progrès."
+    },
+    "subscription": {
+      "question": "Est-ce une autre application par abonnement ?",
+      "answer": "Non ! Il n'y a pas d'abonnement ni d'achats intégrés. (Et ce n'est pas dans notre stratégie de l'ajouter à l'avenir)"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "successMessage": "Votre message a été envoyé avec succès ! Nous vous répondrons bientôt.",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours..."
+    },
+    "errors": {
+      "submissionFailed": "Un problème est survenu lors de l'envoi de votre message. Veuillez réessayer plus tard."
+    }
+  },
+  "footer": {
+    "tagline": "L'Application Ultime de Disc Golf",
+    "legal": {
+      "title": "Légal",
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation"
+    },
+    "social": {
+      "title": "Suivez-nous",
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    },
+    "newsletter": {
+      "title": "Infolettre",
+      "description": "Restez informé de nos dernières fonctionnalités et nouvelles.",
+      "placeholder": "Entrez votre email"
+    }
+  },
+  "login": {
+    "title": "Connexion Admin",
+    "form": {
+      "email": "Adresse Email",
+      "password": "Mot de passe",
+      "signIn": "Se connecter",
+      "signingIn": "Connexion en cours..."
+    },
+    "errors": {
+      "invalid": "Échec de la connexion. Veuillez vérifier vos identifiants."
+    }
+  },
+  "errors": {
+    "failedToLoadClubs": "Échec du chargement des clubs. Utilisation des données d'exemple à la place."
+  }
+}

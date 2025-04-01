@@ -1,0 +1,218 @@
+{
+  "navigation": {
+    "features": "Funktsioonid",
+    "howItWorks": "Kuidas see töötab",
+    "testimonials": "Tagasiside",
+    "clubs": "Klubid",
+    "faq": "KKK",
+    "admin": {
+      "title": "Admin",
+      "clubs": "Klubi Admin",
+      "discSales": "Ketaste Müügi Admin"
+    },
+    "login": "Logi sisse",
+    "logout": "Logi välja",
+    "openMenu": "Ava menüü",
+    "closeMenu": "Sulge menüü"
+  },
+  "hero": {
+    "title": "Disc Golfi Turuplatsi Rakendus",
+    "subtitle": "Osta ja müü oma kettaid - Lihtsalt ja kergelt",
+    "appStore": "Laadi alla App Store'ist",
+    "googlePlay": "Hangi Google Play'st"
+  },
+  "beta": {
+    "attention": "Tähelepanu: Oleme beetaversioonis!",
+    "sampleData": "Kõik veebilehel olevad andmed on praegu näidisandmed.",
+    "standBy": "Palun oota meie esimest väljaannet",
+    "releaseDate": "mai 2025",
+    "notifyButton": "Teavita mind, kui rakendus on valmis"
+  },
+  "notifications": {
+    "modal": {
+      "title": "Saa teavitus, kui rakendus on valmis",
+      "thankYou": "Aitäh!",
+      "submittedMessage": "Sinu teavitustaotlus on esitatud. Anname sulle teada, kui Capty käivitub!"
+    },
+    "form": {
+      "name": "Nimi",
+      "email": "E-posti aadress",
+      "country": "Riik",
+      "send": "Saada",
+      "sending": "Saatmine...",
+      "cancel": "Tühista"
+    },
+    "errors": {
+      "submitError": "Taotluse esitamisel tekkis probleem. Palun proovi uuesti."
+    }
+  },
+  "value": {
+    "title": "Enamat kui rakendus – Mängut muutev lahendus disc golfi mängijatele",
+    "description1": "Kujuta ette, et lähed turniirile ja saad koheselt sirvida teiste mängijate kettaid!",
+    "description2": "Kujuta ette, et reisid maailmas ringi ja sul on tööriist, millega saad ühendust kohalike disc golfi mängijatega, kes näitavad sulle parimaid radu.",
+    "description3": "Need on vaid mõned funktsioonid, mida Capty sulle pakub."
+  },
+  "usps": {
+    "discover": {
+      "title": "📍 Avasta peidetud aardeid oma klubis",
+      "description": "Sirvi kettaid, mida sinu klubiliikmed enam ei kasuta! Leia haruldasi või mängut muutvaid kettaid, mis olid kogumas tolmu."
+    },
+    "track": {
+      "title": "🏆 Jälgi ja võrdle edenemist",
+      "description": "Vaata, kes teeb sinu klubis suurimaid edusamme! Võrdle PDGA aastat progressi ja väljakutsu üksteist taseme tõstmiseks."
+    },
+    "sell": {
+      "title": "💰 Muuda oma vanad kettad rahaks",
+      "description": "Lisa oma kasutamata kettad turule ja müü otse kohalikele mängijatele. Pole enam kasutamata varustust, mis kogub tolmu!"
+    }
+  },
+  "discSales": {
+    "title": "Viimased ketaste müügikuulutused",
+    "subtitle": "Sirvi meie kogukonna poolt lisatud uusimaid kettaid",
+    "viewAll": "Vaata kõiki kettaid",
+    "loading": "Ketaste müügikuulutuste laadimine..."
+  },
+  "features": {
+    "title": "Sõbralik konkurents, tõsine disc golf!",
+    "compete": {
+      "title": "Võistle",
+      "description": "Vii oma disc golfi mäng järgmisele tasemele. Olenemata sellest, kas püüdled isikliku rekordi poole, ronid oma klubi edetabelis või võistled PDGA üritustel, aitab Capty sul jälgida oma arengut, täiustada oma oskusi ja väljakutsu sõpru."
+    },
+    "compare": {
+      "title": "Võrdle",
+      "description": "Kes klubis on mänginud parimad 10 ringi? Kes on parim Circle 1 putter? Kellel on parim PDGA areng viimase aasta jooksul? - Saa vastused Capty'st"
+    },
+    "connect": {
+      "title": "Ühenda",
+      "description": "Disc golf on enamat kui lihtsalt sport—see on kogukond. Capty ühendab sind reisimisel, leiab kohalikud üritused ja näitab isegi, kes mängib samadel turniiridel. Osta ja müü kettaid otse oma kohalikus kogukonnas."
+    }
+  },
+  "howItWorks": {
+    "title": "Kuidas see töötab",
+    "step1": {
+      "title": "Ühenda kohaliku klubiga",
+      "description": "Loo oma konto ja ühenda klubiga, kui oled klubi liige."
+    },
+    "step2": {
+      "title": "Ühenda oma sõpradega",
+      "description": "Ühenda sõpradega ja hakka sirvima kettaid, mida nad ei kasuta!."
+    },
+    "step3": {
+      "title": "Osta, müü ja avasta kettaid",
+      "description": "Sirvi turgu uute ja kasutatud ketaste leidmiseks või lisa oma kollektsioon müüki."
+    },
+    "step4": {
+      "title": "Jälgi edetabelit",
+      "description": "Kes harjutab kõige rohkem puttimist? Kellel on kõige rohkem kettaid? Kasuta edetabeleid ja võrdle."
+    }
+  },
+  "stats": {
+    "clubs": "Aktiivsed klubid",
+    "members": "Aktiivsed liikmed",
+    "salesAds": "Müügikuulutused"
+  },
+  "testimonials": {
+    "title": "Mida loodame, et meie kasutajad ütlevad",
+    "sarah": {
+      "name": "Sarah Johnson",
+      "role": "Professionaalne disc golfi mängija",
+      "content": "Capty on revolutsioneerinud, kuidas ma jälgin oma arengut ja ühendan disc golfi kogukonnaga. See on mängut muutev!"
+    },
+    "mike": {
+      "name": "Mike Peterson",
+      "role": "Klubi juht",
+      "content": "Meie klubi ürituste korraldamine ja liikmete tulemuste jälgimine pole kunagi olnud lihtsam. Väga soovitatav!"
+    },
+    "lisa": {
+      "name": "Lisa Thompson",
+      "role": "Hobimängija",
+      "content": "Ketaste turg on uskumatu! Olen leidnud häid pakkumisi ja haruldasi kettaid rakenduse kaudu."
+    }
+  },
+  "clubs": {
+    "title": "Esile tõstetud klubid",
+    "loading": "Klubide laadimine...",
+    "manageButton": "Halda klubisid",
+    "table": {
+      "name": "Klubi nimi",
+      "location": "Asukoht",
+      "members": "Liikmed"
+    },
+    "fallback": {
+      "name": "Disc Golfi Klubi",
+      "locations": {
+        "usa": "USA",
+        "sweden": "Rootsi",
+        "finland": "Soome",
+        "germany": "Saksamaa",
+        "norway": "Norra"
+      }
+    }
+  },
+  "faqs": {
+    "title": "Korduma kippuvad küsimused",
+    "marketplace": {
+      "question": "Kuidas turg töötab?",
+      "answer": "Meie turg ühendab ostjad ja müüjad otse. Lisa oma kettad koos fotode ja üksikasjadega või sirvi saadaolevaid kettaid täiustatud filtritega."
+    },
+    "listings": {
+      "question": "Kas ma saan kettaid tasuta müüki panna?",
+      "answer": "Jah! kõik kuulutused on täiesti tasuta."
+    },
+    "scores": {
+      "question": "Kuidas jälgida oma tulemusi?",
+      "answer": "Ava lihtsalt rakendus oma ringi ajal, vali oma rada ja sisesta tulemused mängu ajal. Rakendus arvutab automaatselt statistikat ja jälgib sinu arengut."
+    },
+    "subscription": {
+      "question": "Kas see on järjekordne tellimuspõhine rakendus?",
+      "answer": "Ei! Rakenduses pole tellimusi ega sisse-ostusid. (Ja see pole ka osa meie strateegiast neid tulevikus lisada)"
+    }
+  },
+  "contact": {
+    "title": "Võta meiega ühendust",
+    "successMessage": "Sinu sõnum on edukalt saadetud! Võtame sinuga peagi ühendust.",
+    "form": {
+      "name": "Nimi",
+      "email": "E-post",
+      "message": "Sõnum",
+      "send": "Saada sõnum",
+      "sending": "Saatmine..."
+    },
+    "errors": {
+      "submissionFailed": "Sõnumi saatmisel tekkis probleem. Palun proovi hiljem uuesti."
+    }
+  },
+  "footer": {
+    "tagline": "Parim disc golfi rakendus",
+    "legal": {
+      "title": "Juriidiline",
+      "privacy": "Privaatsuspoliitika",
+      "terms": "Teenuse tingimused"
+    },
+    "social": {
+      "title": "Jälgi meid",
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    },
+    "newsletter": {
+      "title": "Uudiskiri",
+      "description": "Ole kursis meie uusimate funktsioonide ja uudistega.",
+      "placeholder": "Sisesta oma e-post"
+    }
+  },
+  "login": {
+    "title": "Administraatori sisselogimine",
+    "form": {
+      "email": "E-posti aadress",
+      "password": "Parool",
+      "signIn": "Logi sisse",
+      "signingIn": "Sisselogimine..."
+    },
+    "errors": {
+      "invalid": "Sisselogimine ebaõnnestus. Palun kontrolli oma andmeid."
+    }
+  },
+  "errors": {
+    "failedToLoadClubs": "Klubide laadimine ebaõnnestus. Kasutan selle asemel näidisandmeid."
+  }
+}
