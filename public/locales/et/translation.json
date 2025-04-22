@@ -5,6 +5,7 @@
     "testimonials": "Tagasiside",
     "clubs": "Klubid",
     "faq": "KKK",
+    "contact": "Võta ühendust",
     "admin": {
       "title": "Admin",
       "clubs": "Klubi Admin",
@@ -174,6 +175,12 @@
     "form": {
       "name": "Nimi",
       "email": "E-post",
+      "reason": "Kontakti põhjus",
+      "reasons": {
+        "feedback": "Tagasiside",
+        "deleteAccount": "Kustuta minu konto",
+        "getData": "Hangi minu andmed"
+      },
       "message": "Sõnum",
       "send": "Saada sõnum",
       "sending": "Saatmine..."

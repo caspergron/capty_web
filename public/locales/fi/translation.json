@@ -5,6 +5,7 @@
     "testimonials": "Arvostelut",
     "clubs": "Seurat",
     "faq": "UKK",
+    "contact": "Ota yhteyttä",
     "admin": {
       "title": "Hallinta",
       "clubs": "Seurojen hallinta",
@@ -174,6 +175,12 @@
     "form": {
       "name": "Nimi",
       "email": "Sähköposti",
+      "reason": "Yhteydenoton syy",
+      "reasons": {
+        "feedback": "Palaute",
+        "deleteAccount": "Poista tilini",
+        "getData": "Hanki tietoni"
+      },
       "message": "Viesti",
       "send": "Lähetä viesti",
       "sending": "Lähetetään..."

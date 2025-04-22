@@ -5,6 +5,7 @@
     "testimonials": "Anmeldelser",
     "clubs": "Klubber",
     "faq": "FAQ",
+    "contact": "Kontakt oss",
     "admin": {
       "title": "Admin",
       "clubs": "Klubb Admin",
@@ -174,6 +175,12 @@
     "form": {
       "name": "Navn",
       "email": "E-post",
+      "reason": "Årsak til kontakt",
+      "reasons": {
+        "feedback": "Tilbakemelding",
+        "deleteAccount": "Slett kontoen min",
+        "getData": "Få dataene mine"
+      },
       "message": "Melding",
       "send": "Send melding",
       "sending": "Sender..."

@@ -5,6 +5,7 @@
     "testimonials": "Getuigenissen",
     "clubs": "Clubs",
     "faq": "FAQ",
+    "contact": "Contact",
     "admin": {
       "title": "Admin",
       "clubs": "Club Beheer",
@@ -174,6 +175,12 @@
     "form": {
       "name": "Naam",
       "email": "E-mail",
+      "reason": "Reden voor contact",
+      "reasons": {
+        "feedback": "Feedback",
+        "deleteAccount": "Mijn account verwijderen",
+        "getData": "Mijn gegevens opvragen"
+      },
       "message": "Bericht",
       "send": "Bericht versturen",
       "sending": "Versturen..."

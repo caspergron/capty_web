@@ -5,6 +5,7 @@
     "testimonials": "Témoignages",
     "clubs": "Clubs",
     "faq": "FAQ",
+    "contact": "Contact",
     "admin": {
       "title": "Admin",
       "clubs": "Admin des Clubs",
@@ -174,6 +175,12 @@
     "form": {
       "name": "Nom",
       "email": "Email",
+      "reason": "Raison du contact",
+      "reasons": {
+        "feedback": "Commentaires",
+        "deleteAccount": "Supprimer mon compte",
+        "getData": "Obtenir mes données"
+      },
       "message": "Message",
       "send": "Envoyer le message",
       "sending": "Envoi en cours..."

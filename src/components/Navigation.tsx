@@ -19,6 +19,7 @@ function Navigation() {
     { name: t('navigation.testimonials'), href: '/#testimonials' },
     { name: t('navigation.clubs'), href: '/#clubs' },
     { name: t('navigation.faq'), href: '/#faq' },
+    { name: t('navigation.contact'), href: '/contact' },
   ];
 
   const adminLinks = [

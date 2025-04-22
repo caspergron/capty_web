@@ -8,6 +8,7 @@ import TermsAndConditions from './pages/TermsAndConditions';
 import Admin from './pages/Admin';
 import DiscSalesAdmin from './pages/DiscSalesAdmin';
 import Login from './pages/Login';
+import ContactPage from './pages/ContactPage';
 import Navigation from './components/Navigation';
 import BetaAnnouncement from './components/BetaAnnouncement';
 import DiscSalesAdsSection from './components/DiscSalesAdsSection';
@@ -169,6 +170,7 @@ function HomePage() {
     // Fetch clubs from Firebase
     const loadClubs = async () => {
       try {
+        setLoading(true);
         const featuredClubs = await getFeaturedClubs(10);
         if (featuredClubs.length > 0) {
           setClubs(featuredClubs);
@@ -464,75 +466,6 @@ function HomePage() {
         </div>
       </section>
 
-      {/* Contact Section */}
-      <section className="py-24 bg-primary-lightest">
-        <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <div className="mx-auto max-w-2xl">
-            <h2 className="text-3xl font-bold text-primary mb-8">{t('contact.title')}</h2>
-            <form className="space-y-6" onSubmit={handleContactSubmit}>
-              {contactStatus.error && (
-                <div className="p-4 bg-red-50 text-red-700 rounded-md">
-                  {contactStatus.error}
-                </div>
-              )}
-              
-              {contactStatus.success && (
-                <div className="p-4 bg-green-50 text-green-700 rounded-md">
-                  {t('contact.successMessage')}
-                </div>
-              )}
-              
-              <div>
-                <label htmlFor="name" className="block text-sm font-medium text-gray-700">{t('contact.form.name')}</label>
-                <input
-                  type="text"
-                  name="name"
-                  id="name"
-                  value={contactForm.name}
-                  onChange={handleContactInputChange}
-                  className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-primary focus:ring-primary"
-                  required
-                  disabled={contactStatus.submitting}
-                />
-              </div>
-              <div>
-                <label htmlFor="email" className="block text-sm font-medium text-gray-700">{t('contact.form.email')}</label>
-                <input
-                  type="email"
-                  name="email"
-                  id="email"
-                  value={contactForm.email}
-                  onChange={handleContactInputChange}
-                  className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-primary focus:ring-primary"
-                  required
-                  disabled={contactStatus.submitting}
-                />
-              </div>
-              <div>
-                <label htmlFor="message" className="block text-sm font-medium text-gray-700">{t('contact.form.message')}</label>
-                <textarea
-                  name="message"
-                  id="message"
-                  rows={4}
-                  value={contactForm.message}
-                  onChange={handleContactInputChange}
-                  className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-primary focus:ring-primary"
-                  required
-                  disabled={contactStatus.submitting}
-                />
-              </div>
-              <button
-                type="submit"
-                className="w-full bg-primary text-white py-2 px-4 rounded-md hover:bg-primary-light disabled:opacity-70"
-                disabled={contactStatus.submitting}
-              >
-                {contactStatus.submitting ? t('contact.form.sending') : t('contact.form.send')}
-              </button>
-            </form>
-          </div>
-        </div>
-      </section>
-
       {/* Footer */}
       <footer className="bg-primary text-white py-12">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -578,6 +511,7 @@ function AppWithRoutes() {
       <Route path="/login" element={<Login />} />
       <Route path="/privacy-policy" element={<PrivacyPolicy />} />
       <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
+      <Route path="/contact" element={<ContactPage />} />
       <Route 
         path="/admin" 
         element={
